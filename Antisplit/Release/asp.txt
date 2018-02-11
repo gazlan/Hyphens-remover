@@ -1,0 +1,8 @@
+-*-   Antisplit   *   (c)  Gazlan,  2013   -*-
+
+Anti-Hyphenation
+
+Usage: asp.com wildcards
+
+complains_n_suggestions direct to gazlan@yandex.ru
+
